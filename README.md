@@ -50,7 +50,7 @@
 
 
 ### Name: Nithish D M
-### Register Number: 21222323144
+### Register Number: 212223230144
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
